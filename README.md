@@ -4,11 +4,10 @@ A simple clone of the popular game *Flappy Bird* built using Java Swing and AWT 
 
 ## Table of Contents
 1. [Features](#features)
-2. [Game Preview](#game-preview)
-3. [How to Play](#how-to-play)
-4. [Setup and Installation](#setup-and-installation)
-5. [Project Structure](#project-structure)
-6. [Future Improvements](#future-improvements)
+2. [How to Play](#how-to-play)
+3. [Setup and Installation](#setup-and-installation)
+4. [Project Structure](#project-structure)
+5. [Future Improvements](#future-improvements)
 
 ## Features
 - **Basic Game Physics**: The bird falls due to gravity and can jump with the space bar.
@@ -16,8 +15,6 @@ A simple clone of the popular game *Flappy Bird* built using Java Swing and AWT 
 - **Score Tracking**: The game tracks the score based on how many pipes the bird successfully passes.
 - **Game Over and Restart**: The game ends when the bird hits a pipe or the ground, and can be restarted.
 
-## Game Preview
-![Flappy Bird Game Screenshot](screenshot.png)
 
 
 ## How to Play
